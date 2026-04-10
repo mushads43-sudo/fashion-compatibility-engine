@@ -1,0 +1,6 @@
+project_name: fashion-compatibility-engine
+embedding_model: resnet50
+embedding_dim: 2048
+pca_components: 256
+random_state: 42
+top_k: 8

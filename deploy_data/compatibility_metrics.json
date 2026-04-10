@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.97975,
+  "roc_auc": 0.8617918187941964,
+  "train_pairs": 16000,
+  "test_pairs": 4000
+}

@@ -1,0 +1,17 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+streamlit==1.41.1
+torch>=2.6.0
+torchvision>=0.21.0
+pillow==11.0.0
+numpy==2.2.1
+pandas==2.2.3
+scikit-learn==1.6.0
+joblib==1.4.2
+tqdm==4.67.1
+requests==2.32.3
+python-multipart==0.0.20
+matplotlib==3.10.0
+kaggle==1.6.17
+python-pptx==1.0.2
+pytest==8.3.4
